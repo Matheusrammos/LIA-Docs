@@ -22,14 +22,18 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    > <img height="254.3" width="480" alt="Push Button Circuito" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_4.png">
    >
    > <img height="255" width="345" align="right" alt="Push Button Aplicação" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_1.png">
+   > Vantagens no Projeto:
+   > - Controle Simples: Com um único pressionamento, é possível ativar ou desativar a roleta.  
+   >
+   > - Versatilidade: Pode ser usado em diferentes contextos para iniciar ou pausar funções.  
+   >
+   > - Custo-Benefício: É um componente barato, robusto e amplamente disponível.  
+
 
 <details>
 <summary> :bangbang: Funcionamento e Características </summary>
    
-#### **Vantagens no Projeto:**  
-- **Controle Simples:** Com um único pressionamento, é possível ativar ou desativar a roleta.  
-- **Versatilidade:** Pode ser usado em diferentes contextos para iniciar ou pausar funções.  
-- **Custo-Benefício:** É um componente barato, robusto e amplamente disponível.  
+
 
 #### **Considerações Técnicas:**  
 - **Debouncing:** Devido à natureza física dos contatos internos, um botão pode gerar sinais elétricos instáveis ao ser pressionado. Neste projeto, o problema é mitigado com um pequeno atraso (`delay(50)`) no código.  
@@ -47,8 +51,8 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    - **Normalmente Aberto (NO):** O circuito permanece desconectado até o botão ser pressionado, como usado neste projeto.  
    - **Normalmente Fechado (NC):** O circuito permanece conectado e se desconecta apenas quando o botão é pressionado.
    
-> <img height="235" width="233" alt="Push Button Diagrama" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_2.png">
-> <img height="235" width="243" alt="Push Button Diagrama" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_2.png">
+> <img height="265" width="463" alt="Push Button Diagrama" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_2.png">
+> <img height="265" width="358" align="right" alt="Push Button Diagrama" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_3.png">
 </details>
 
 
