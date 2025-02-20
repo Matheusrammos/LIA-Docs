@@ -4,34 +4,14 @@
 ## Descrição
 Este projeto simula uma roleta luminosa utilizando seis LEDs e um botão, com controle de velocidade e parada gradual. A roleta é acionada ao pressionar o botão, e os LEDs piscam sequencialmente, desacelerando até que um LED final seja destacado como o "vencedor". A interface com o Serial Monitor permite acompanhar o número gerado aleatoriamente.
 
-### Sobre o Push Botton:
-- O **push button** (ou botão de pressão) é um componente essencial neste projeto, atuando como um interruptor momentâneo que controla o início e a parada da roleta luminosa. Simples e eficiente, ele é amplamente utilizado em circuitos eletrônicos e projetos com Arduino devido à sua confiabilidade e facilidade de integração.
-
-
-
-   <img height="200" width="303" align="right" alt="WhileDIAGRAMA" src="https://github.com/user-attachments/assets/454ddd04-1086-4226-8b8f-7cb032603cd3">
-   
-   > <img height="200" width="310" alt="WhileDIAGRAMA" src="https://github.com/user-attachments/assets/7696e638-6d4b-4f56-9ffc-ed535ae8bded">
-   > 
-   > <img height="300" width="603"  alt="WhileDIAGRAMA" src="https://github.com/user-attachments/assets/3dd7da58-2744-456b-86a5-990ecb17d68f">
-   >
-   > O **push button** desempenha um papel crucial na interação com o usuário, tornando este projeto intuitivo e acessível mesmo para iniciantes.
-
-
-
-
-
-
 ### Sobre o Push Button:
 - O **push button** (ou botão de pressão) é um componente eletromecânico utilizado para estabelecer ou interromper momentaneamente um circuito elétrico. Ele é amplamente aplicado em projetos eletrônicos e sistemas embarcados, como no Arduino, devido à sua confiabilidade e simplicidade.
 
 #### Funcionamento:
-
 - O push button opera como um interruptor **momentâneo**, ou seja, ele fecha o circuito apenas enquanto está pressionado. Assim que é liberado, o circuito se abre novamente.  
 - Em circuitos digitais, é frequentemente utilizado para acionar eventos, como iniciar ou pausar processos e modificar estados lógicos em um sistema.  
 
 #### Aplicações no Arduino:
-
 Os push buttons são essenciais para projetos interativos, pois permitem entrada de usuário de forma simples e eficiente. Algumas das aplicações mais comuns incluem:
 
    - **Interruptores Digitais:** O botão pode ser utilizado para ativar ou desativar LEDs, motores ou outros dispositivos conectados ao Arduino.  
@@ -39,9 +19,9 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    - **Reset de Sistemas:** Em circuitos de microcontroladores, um push button pode ser usado como botão de reset para reiniciar o código em execução.  
    - **Debounce e Filtros:** Como o acionamento mecânico pode gerar múltiplos sinais indesejados (efeito conhecido como **bouncing**), técnicas como atrasos no software ou filtros com resistores pull-up/pull-down são aplicadas para garantir leituras confiáveis.  
 
-   > <img height="200" width="303" align="right" alt="Push Button Diagrama" src="https://github.com/user-attachments/assets/454ddd04-1086-4226-8b8f-7cb032603cd3">
+   > <img height="254" width="603" alt="Push Button Circuito" src="https://github.com/user-attachments/assets/3dd7da58-2744-456b-86a5-990ecb17d68f">
    >
-   > <img height="200" width="310" alt="Push Button Aplicação" src="https://github.com/user-attachments/assets/7696e638-6d4b-4f56-9ffc-ed535ae8bded">
+   > <img height="200" width="310" align="right" alt="Push Button Aplicação" src="https://github.com/user-attachments/assets/7696e638-6d4b-4f56-9ffc-ed535ae8bded">
 
 <details>
 <summary> :bangbang: Funcionamento e Características </summary>
@@ -66,8 +46,8 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
 3. **Tipos Comuns:**  
    - **Normalmente Aberto (NO):** O circuito permanece desconectado até o botão ser pressionado, como usado neste projeto.  
    - **Normalmente Fechado (NC):** O circuito permanece conectado e se desconecta apenas quando o botão é pressionado.
-
-> <img height="300" width="603" alt="Push Button Circuito" src="https://github.com/user-attachments/assets/3dd7da58-2744-456b-86a5-990ecb17d68f">
+   
+   > <img height="255" width="303" alt="Push Button Diagrama" src="https://github.com/user-attachments/assets/454ddd04-1086-4226-8b8f-7cb032603cd3">
 </details>
 
 
