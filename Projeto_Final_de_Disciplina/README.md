@@ -19,9 +19,9 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    - **Reset de Sistemas:** Em circuitos de microcontroladores, um push button pode ser usado como botão de reset para reiniciar o código em execução.  
    - **Debounce e Filtros:** Como o acionamento mecânico pode gerar múltiplos sinais indesejados (efeito conhecido como **bouncing**), técnicas como atrasos no software ou filtros com resistores pull-up/pull-down são aplicadas para garantir leituras confiáveis.  
 
-   > <img height="254.3" width="439" alt="Push Button Circuito" src="https://github.com/user-attachments/assets/3dd7da58-2744-456b-86a5-990ecb17d68f">
+   > <img height="254.3" width="480" alt="Push Button Circuito" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_4.png">
    >
-   > <img height="255" width="387" align="right" alt="Push Button Aplicação" src="https://github.com/user-attachments/assets/7696e638-6d4b-4f56-9ffc-ed535ae8bded">
+   > <img height="255" width="345" align="right" alt="Push Button Aplicação" src="https://github.com/user-attachments/assets/7696e638-6d4b-4f56-9ffc-ed535ae8bded">
 
 <details>
 <summary> :bangbang: Funcionamento e Características </summary>
