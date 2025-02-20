@@ -22,13 +22,7 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    > <img height="254.3" width="480" alt="Push Button Circuito" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_4.png">
    >
    > <img height="255" width="345" align="right" alt="Push Button Aplicação" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_1.png">
-   > Vantagens no Projeto:
-   > - Controle Simples: Com um único pressionamento, é possível ativar ou desativar a roleta.  
-   >
-   > - Versatilidade: Pode ser usado em diferentes contextos para iniciar ou pausar funções.  
-   >
-   > - Custo-Benefício: É um componente barato, robusto e amplamente disponível.  
-
+   > O push button oferece um controle simples, permitindo ativar ou desativar a roleta com um único pressionamento. Além disso, é versátil, podendo ser usado em diversos contextos para iniciar ou pausar funções. Seu baixo custo, robustez e ampla disponibilidade fazem dele uma excelente escolha para projetos eletrônicos.
 
 <details>
 <summary> :bangbang: Funcionamento e Características </summary>
