@@ -47,7 +47,8 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    - **Normalmente Aberto (NO):** O circuito permanece desconectado até o botão ser pressionado, como usado neste projeto.  
    - **Normalmente Fechado (NC):** O circuito permanece conectado e se desconecta apenas quando o botão é pressionado.
    
-   > <img height="235" width="603" alt="Push Button Diagrama" src="https://github.com/user-attachments/assets/454ddd04-1086-4226-8b8f-7cb032603cd3">
+> <img height="235" width="233" alt="Push Button Diagrama" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_2.png">
+> <img height="235" width="243" alt="Push Button Diagrama" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_2.png">
 </details>
 
 
