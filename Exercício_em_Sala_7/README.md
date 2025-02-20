@@ -20,9 +20,7 @@ O projeto utiliza um display de 7 segmentos para exibir caracteres no formato he
     > Aplicações: Dispositivos portáteis: relógios e calculadoras; Medidores: termômetros digitais, multímetros e balanças eletrônicas; Eletrodomésticos: micro-ondas e máquinas de lavar.
 
 <details>
-<summary> :bangbang: Tipos de Configuração  </summary>
-
-
+<summary> :bangbang: Funcionamento e Características </summary>
 
 1. **Anodo Comum (CA):**  
    - Todos os ânodos (terminais positivos) dos LEDs estão conectados juntos e precisam ser ligados a uma fonte de tensão positiva.  
