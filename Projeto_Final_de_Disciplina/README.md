@@ -21,7 +21,7 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
 
    > <img height="254.3" width="480" alt="Push Button Circuito" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_4.png">
    >
-   > <img height="255" width="345" align="right" alt="Push Button Aplicação" src="https://github.com/user-attachments/assets/7696e638-6d4b-4f56-9ffc-ed535ae8bded">
+   > <img height="255" width="345" align="right" alt="Push Button Aplicação" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_1.png">
 
 <details>
 <summary> :bangbang: Funcionamento e Características </summary>
