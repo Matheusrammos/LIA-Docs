@@ -30,7 +30,7 @@ O projeto utiliza um display de 7 segmentos para exibir caracteres no formato he
    - Todos os cátodos (terminais negativos) dos LEDs estão conectados ao GND, e os segmentos são ativados ao aplicar tensão positiva nos ânodos (terminais positivos).
 > 
 > 
-> <img height="505" width="903" alt="WhileDIAGRAMA" src="https://github.com/user-attachments/assets/ffbac0dc-0306-4d23-ae06-9b521a51fa61"> 
+> <img height="555" width="903" alt="WhileDIAGRAMA" src="https://github.com/user-attachments/assets/ffbac0dc-0306-4d23-ae06-9b521a51fa61"> 
 </details>
 
 
