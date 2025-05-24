@@ -22,6 +22,7 @@ Os push buttons são essenciais para projetos interativos, pois permitem entrada
    > <img height="254.3" width="480" alt="Push Button Circuito" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_4.png">
    >
    > <img height="255" width="345" align="right" alt="Push Button Aplicação" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Projeto_Final_de_Disciplina/Button_IMG_1.png">
+   >
    > O push button oferece um controle simples, permitindo ativar ou desativar a roleta com um único pressionamento. Além disso, é versátil, podendo ser usado em diversos contextos para iniciar ou pausar funções. Seu baixo custo, robustez e ampla disponibilidade fazem dele uma excelente escolha para projetos eletrônicos.
 
 <details>
