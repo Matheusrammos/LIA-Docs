@@ -14,11 +14,10 @@ No universo do Arduino, os resistores desempenham papéis essenciais para a segu
 - **Divisores de Tensão:** Permitem reduzir a tensão de um sinal para níveis compatíveis com as entradas analógicas do Arduino, facilitando a leitura precisa de sensores e outros dispositivos.
 - **Proteção de LEDs e Outros Componentes:** Em circuitos com LEDs, resistores limitam a corrente que flui pelo diodo, evitando sobrecorrente e prolongando a vida útil do componente.
 - **Pull-up e Pull-down:** Utilizados para definir estados lógicos estáveis em entradas digitais, prevenindo leituras erráticas devido a flutuações de sinal em pinos não conectados.
-- **Circuitos RC (Resistor-Capacitor):** Junto com capacitores, os resistores formam circuitos temporizadores e filtros que ajudam em funções como o debouncing de botões e a criação de atrasos precisos em sinais.
 
      > <img height="254.3" width="368" align="right" alt="Diagrama de Resistor" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_Tabela%3ARESIST%C3%8ANCIA.png">
      >
-     > <img height="10000" width="425" alt="WhileDIAGRAMA" alt="WhileDIAGRAMA" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_IMG_3.png">
+     > <img height="255" width="425" alt="WhileDIAGRAMA" alt="WhileDIAGRAMA" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_IMG_3.png">
      > Essas aplicações demonstram como os resistores são indispensáveis para o funcionamento seguro e estável de circuitos com Arduino, servindo tanto para proteção quanto para o controle preciso de sinais elétricos.
 
 <details>
@@ -32,13 +31,10 @@ No universo do Arduino, os resistores desempenham papéis essenciais para a segu
   
 - **Diversidade de Tipos:** Existem várias tecnologias de resistores, como os de carbono, metal film e wirewound, cada um oferecendo características específicas em termos de estabilidade, ruído e dissipação de calor.
   
-> <img height="234.3" width="415" align="right" alt="WhileDIAGRAMA" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_IMG_3.png">
 
 > <img height="235" width="410" alt="WhileDIAGRAMA" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_IMG_2.png">
- 
-> <img height="254.3" width="343" align="right" alt="Diagrama de Resistor" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_Tabela%3ARESIST%C3%8ANCIA.png">
 >
-> <img height="255" width="450" alt="WhileDIAGRAMA" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_IMG_1.png">
+> <img height="235" width="415" align="right" src="https://github.com/Matheusrammos/LIA-Docs/blob/main/Exerc%C3%ADcio_em_Sala_1/RESISTORES_IMG_1.png">
 </details>
 
 
